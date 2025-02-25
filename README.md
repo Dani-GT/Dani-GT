@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
 </p>
 
+# 👋 Hi there! I'm Daniel Galán Tavares 
 ## 🚀 Sobre mí  
 Apasionado por el desarrollo web y siempre en busca de aprender nuevas tecnologías. Después de varios años como oficial de policía, decidí seguir mi pasión por la programación y la resolución de problemas. Actualmente, estoy ampliando mis conocimientos en desarrollo full-stack y aplicaciones web.  
 
