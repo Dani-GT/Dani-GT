@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
 </p>
 
-#Hi there, My name is Dani...
+<h2> Hi there, My name is Dani. </h2>
 ## 🚀 About Me  
 Passionate about web development and always eager to learn new technologies. After years of serving as a police officer, I decided to follow my passion for coding and problem-solving. Currently, I'm expanding my skills in full-stack development and application development.  
 
