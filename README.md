@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
 </p>
 
-<h2> Hi there, My name is Dani. </h2>
+<h2> Hi! My name is Dani. </h2>
 ## 🚀 About Me  
 Passionate about web development and always eager to learn new technologies. After years of serving as a police officer, I decided to follow my passion for coding and problem-solving. Currently, I'm expanding my skills in full-stack development and application development.  
 
@@ -23,6 +23,8 @@ Passionate about web development and always eager to learn new technologies. Aft
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
 </p>
 
 ## 📫 Let's Connect  
