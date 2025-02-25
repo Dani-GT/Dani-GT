@@ -1,19 +1,19 @@
-# 👋 Hi there! I'm Daniel Galán Tavares  
+# ✨🚀 ¡Bienvenido a mi perfil! 🚀✨  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
 </p>
 
-## 🚀 About Me  
-Passionate about web development and always eager to learn new technologies. After years of serving as a police officer, I decided to follow my passion for coding and problem-solving. Currently, I'm expanding my skills in full-stack development and application development.  
+## 🚀 Sobre mí  
+Apasionado por el desarrollo web y siempre en busca de aprender nuevas tecnologías. Después de varios años como oficial de policía, decidí seguir mi pasión por la programación y la resolución de problemas. Actualmente, estoy ampliando mis conocimientos en desarrollo full-stack y aplicaciones web.  
 
-## 🎓 Education  
-- **CFGM** in Electromechanics of Vehicles  
-- **CFGS** in Web Application Development  
-- **Master** in Fullstack Development  
-- **Master** in Power AI  
+## 🎓 Educación  
+- **CFGM** en Electromecánica de Vehículos  
+- **CFGS** en Desarrollo de Aplicaciones Web  
+- **Máster** en Fullstack Development  
+- **Máster** en Power IA  
 
-## 💻 Technologies I'm Learning  
+## 💻 Tecnologías que estoy aprendiendo  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -22,8 +22,9 @@ Passionate about web development and always eager to learn new technologies. Aft
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 </p>
 
-## 📫 Let's Connect  
-Feel free to reach out and collaborate! 🚀  
+## 📫 ¡Conectemos!  
+Estoy abierto a nuevas oportunidades y colaboraciones. ¡Hagamos algo increíble juntos! 🚀  
+
 
 
 <!--
